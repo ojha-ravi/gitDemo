@@ -1,0 +1,3 @@
+[submodule "seti-ui"]
+	path = seti-ui
+	url = git@github.com:rojha-mdsol/seti-ui.git
